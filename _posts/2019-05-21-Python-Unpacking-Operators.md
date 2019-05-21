@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Python Unpacking Operators
-subtitle:   \* and \*\*
+subtitle:   * and **
 date:       2019-05-21
 author:     Fei
 header-img: img/post-bg-universe.jpg
